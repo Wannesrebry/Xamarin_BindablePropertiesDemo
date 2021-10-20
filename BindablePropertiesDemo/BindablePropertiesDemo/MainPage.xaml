@@ -2,13 +2,16 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:BindablePropertiesDemo"
+             xmlns:controls="clr-namespace:BindablePropertiesDemo.Controls;assembly=BindablePropertiesDemo"
              x:Class="BindablePropertiesDemo.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        
+        <controls:MyCustomControl
+            TitleText="Test Title"
+            DescriptionText="Test Description"
+            />
+        
     </StackLayout>
 
 </ContentPage>
