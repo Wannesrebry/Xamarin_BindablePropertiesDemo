@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfaNJEgh3715b+smqEAeDuBFFdAWGIvDNh4ltOHkrbMhhrnFgEguODvfzxs1M1bVk4r76g4z6bsUXmgiD5byig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wannes Rebry\\RiderProjects\\BindablePropertiesDemo\\BindablePropertiesDemo\\BindablePropertiesDemo.iOS\\BindablePropertiesDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wannes Rebry\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}
